@@ -1,5 +1,5 @@
 from random import randint
-
+#Ten komentarz został dodany na poczet zadania z NI
 # plansza ktora widzi gracz
 plansza = []
 # plansza do testow komputera

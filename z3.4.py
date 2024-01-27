@@ -1,5 +1,6 @@
 from random import randint
 #Ten komentarz został dodany na poczet zadania z NI
+#Ten komnetarz został dodany jako drógi na poczet zadania narzędzi inżynierskich przez W.Zimną
 # plansza ktora widzi gracz
 plansza = []
 # plansza do testow komputera
@@ -102,3 +103,4 @@ while tura<6:
 
 
 print("Skonczyly ci sie tury. Powodzenia nastepnym razem!")
+#Komentarz przez W.Zimną Bardzo Ładny Kod <3
